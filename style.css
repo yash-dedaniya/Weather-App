@@ -40,7 +40,7 @@ body {
     font-size: 18px;
 }
 
-.search button{
+.search button {
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -48,4 +48,8 @@ body {
     width: 60px;
     height: 60px;
     cursor: pointer;
+}
+
+.search button img {
+    width: 16px;
 }
